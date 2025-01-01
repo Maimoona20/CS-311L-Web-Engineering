@@ -1,0 +1,73 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+ 
+  header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header h1 {
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+  }
+  
+  .featured-books {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+ 
+  .category {
+    width: 40%;
+    padding: 15px;
+    border: 2px solid #ddd;
+    margin: 10px;
+  }
+  
+
+  .book {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .book img {
+    width: 30%;
+    height: auto;
+    margin-bottom: 5px;
+  }
+  
+  .book h3 {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+  }
+  
+  .book p {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  
+  
+  .buy-now {
+    background-color: #0000005f;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+  }
+  

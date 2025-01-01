@@ -1,0 +1,42 @@
+
+#main-heading {
+    text-align: center;
+    color: #4CAF50;
+    font-size: 36px;
+    font-family: 'Arial', sans-serif;
+    margin-top: 20px;
+}
+
+
+.hobbies-section {
+    margin: 30px;
+    font-family: 'Arial', sans-serif;
+}
+
+.hobby-heading {
+    color: #FF6347;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.hobbies-section p {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+}
+
+
+.skills-section {
+    margin: 30px;
+    font-family: 'Arial', sans-serif;
+}
+
+.skills-list {
+    list-style-type: square; 
+    font-size: 18px;
+}
+
+.skills-list li {
+    color: #2F4F4F;
+    margin-bottom: 8px;
+}
