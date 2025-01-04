@@ -1,0 +1,11 @@
+.formi
+{
+    display: flex;
+    padding: 10px 10px 10px 10px;
+    color: rgb(27, 100, 103);
+    background-color: beige;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 10%;
+    align-items: center;
+}
